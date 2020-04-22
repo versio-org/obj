@@ -1,0 +1,42 @@
+[
+  {
+    "title": "MarkDown test1",
+    "action": {
+      "method": "contentCreate",
+      "params": {
+        "objectId": "4382"
+      }
+    },
+    "app": "fxreaper"
+  },
+  {
+    "title": "MarkDown test2",
+    "app": "fxreaper",
+    "action": {
+      "method": "contentCreate",
+      "params": {
+        "objectId": "4533"
+      }
+    }
+  },
+  {
+    "title": "Moje aplikacje",
+    "app": "fxreaper",
+    "action": {
+      "method": "contentCreate",
+      "params": {
+        "objectId": "4533"
+      }
+    }
+  },
+  {
+    "title": "custom_testtable1",
+    "app": "custom_db_testdb1",
+    "action": {
+      "method": "gridCreate",
+      "params": {
+        "objectId": "4669"
+      }
+    }
+  }
+]
