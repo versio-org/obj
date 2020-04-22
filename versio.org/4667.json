@@ -6,8 +6,7 @@
       "params": {
         "objectId": "4382"
       }
-    },
-    "app": "fxreaper"
+    }    
   },
   {
     "title": "MarkDown test2",
@@ -20,8 +19,7 @@
     }
   },
   {
-    "title": "Moje aplikacje",
-    "app": "fxreaper",
+    "title": "Moje aplikacje",   
     "action": {
       "method": "contentCreate",
       "params": {
@@ -31,7 +29,6 @@
   },
   {
     "title": "custom_testtable1",
-    "app": "custom_db_testdb1",
     "action": {
       "method": "gridCreate",
       "params": {
