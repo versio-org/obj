@@ -1,0 +1,20 @@
+[
+  {
+    "title": "O kancelarii",
+    "action": {
+      "method": "contentCreate",
+      "params": {
+        "objectId": "4382"
+      }
+    }    
+  },
+  {
+    "title": "Kontakt",
+    "action": {
+      "method": "contentCreate",
+      "params": {
+        "objectId": "4533"
+      }
+    }
+  }
+]
