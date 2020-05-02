@@ -1,0 +1,15 @@
+{
+	"rem_menu": "4366",
+	"action": "????",
+	"tree": "4667",
+	"form": "4384",
+	"status": "????",
+	"east": "????",
+	"onshow": "action({'method': 'objectFrontend','params': {'o': 4538}}, 1);",
+
+	"params": {
+		"title": "Portal uniwersalny wersja alfa",
+		"width": 100,
+		"height": 200
+	}	
+}
